@@ -11,7 +11,7 @@
 
 ## Current activity
 
-- 💻 I'm currently developing WhatsApp Bot And Many Others.
+- 💻 I'm currently developing WhatsApp Bot And Laravel Learning.
 - 📖 I’m currently learning PHP,JAVASCRIPT,HTML5,CSS and Many Others;
 - 💡 My interests are with front-end & backend then i decide to do fullstack;
 
