@@ -1,4 +1,4 @@
-<h2> ## **Hi There, I'm Choirul (Koichiro)!**  </h2>
+## **Hi There, I'm Choirul (Koichiro)!**
 
 
 
