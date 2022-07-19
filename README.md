@@ -15,14 +15,5 @@
 - 📖 I’m currently learning PHP,JAVASCRIPT,HTML5,CSS and Many Others;
 - 💡 My interests are with front-end & backend then i decide to do fullstack;
 
-## Github Performance Overall
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=Koichiro12&show_icons=true&theme=radical)
-
-## My Github Most Used Language
-
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Koichiro12&layout=compact&theme=radical)
-
 ⭐️ From [@Koichiro12](https://github.com/Koichiro12)
 Programming Language Agnostic , Tech Enthusiast and FullStack Developer.
