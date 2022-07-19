@@ -12,7 +12,7 @@
 ## Current activity 💡
 
 - 💻 I'm currently developing WhatsApp Bot And Laravel Learning.
-- 📖 I’m currently learning PHP,JAVASCRIPT,HTML5,CSS and Many Others;
+- 📖 I’m currently learning FLUTTER,LARAVELAND VUE JS.
 - 💡 My interests are with front-end & backend then i decide to do fullstack;
 
 
