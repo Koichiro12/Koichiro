@@ -1,4 +1,4 @@
-## **Hi There, I'm Choirul (Koichiro)!**
+## **⭐️Hi There, I'm Choirul (Koichiro)!**
 
 
 
@@ -9,7 +9,7 @@
 ![age](https://img.shields.io/badge/Age-19-blue)
 ![focus](https://img.shields.io/badge/Focus-FullStack-blue)
 
-## Current activity
+## Current activity 💡
 
 - 💻 I'm currently developing WhatsApp Bot And Laravel Learning.
 - 📖 I’m currently learning PHP,JAVASCRIPT,HTML5,CSS and Many Others;
