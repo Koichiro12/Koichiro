@@ -1,13 +1,13 @@
 ## **⭐️Hi There, I'm Choirul (Koichiro)!**
-
-
-
-
 <a href="https://web.facebook.com/irul.saja.5099"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/iki.irul/"><img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 ![age](https://img.shields.io/badge/Age-19-green)
 ![focus](https://img.shields.io/badge/Focus-FullStack-blue)
+
+
+![Choirul Dhani's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Koichiro12&&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koichiro12&layout=compact&langs_count=8&hide_border=true)](https://github.com/daniar-17/github-readme-stats)<br><br>
 
 ## Current activity 💡
 
