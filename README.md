@@ -5,8 +5,6 @@
 ![age](https://img.shields.io/badge/Age-19-green)
 ![focus](https://img.shields.io/badge/Focus-FullStack-blue)
 
-
-![Choirul Dhani's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Koichiro12&&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koichiro12&layout=compact&langs_count=8&hide_border=true)](https://github.com/daniar-17/github-readme-stats)<br><br>
 
 ## Current activity 💡
