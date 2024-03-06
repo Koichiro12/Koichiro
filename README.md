@@ -5,7 +5,10 @@
 ![age](https://img.shields.io/badge/Age-19-green)
 ![focus](https://img.shields.io/badge/Focus-FullStack-blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koichiro12&layout=compact&langs_count=8&hide_border=true)](https://github.com/daniar-17/github-readme-stats)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koichiro12&layout=compact&langs_count=8&hide_border=true)](https://github.com/daniar-17/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Koichiro12&hide=contribs,prs)
+
+<br><br>
 
 ## Current activity 💡
 
